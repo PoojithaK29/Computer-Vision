@@ -1,0 +1,4 @@
+train: C:/Users/pkathi/Desktop/object detection/mini-data-tempyl/train
+val: C:/Users/pkathi/Desktop/object detection/mini-data-tempyl/valid
+nc: 2
+names: ['fire', 'smoke']
